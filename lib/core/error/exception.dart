@@ -1,0 +1,1 @@
+class ArtistException implements Exception {}
